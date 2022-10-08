@@ -1,3 +1,7 @@
+print("------------------------------")
+print("------SUMA-DE-DIGITOS---------")
+print("------------------------------")
+
 N=int(input("ingresa el numero:"))
 
 n1=N
